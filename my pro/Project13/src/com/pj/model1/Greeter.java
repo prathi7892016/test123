@@ -2,7 +2,7 @@ package com.pj.model1;
 
 /*public class Greeter {
 	public void Greet() {
-		System.out.println("Hello Greeting");
+		System.out.println("Hello Greeting");/*make changes in branch1*/
 	}
 
 }*/
